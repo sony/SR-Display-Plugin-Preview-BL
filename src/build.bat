@@ -12,7 +12,7 @@ $pluginName = "SpatialRealityDisplayPluginBle_" + $version
 
 New-Item $pluginName -ItemType Directory -Force > $null
 
-$logfile = "buld.log"
+$logfile = "build.log"
 xcopy "srd_for_blender" $pluginName /EXCLUDE:xcopy-excludelist.txt /D /S /E /Y /R >> $logfile
 
 Compress-Archive -Path $pluginName -DestinationPath ./$pluginName.zip -Force

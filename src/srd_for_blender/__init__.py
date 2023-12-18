@@ -60,9 +60,9 @@ from IPCViewerCommand import CommandSender
 from SRDViewer import srdViewer
 
 bl_info = {
-    "name": "Spatial Reality Display",
+    "name": "Spatial Reality Display OSS",
     "author": "Sony Corporation",
-    "version": (1, 0, 0),
+    "version": (0, 0, 0),
     "blender": (3, 3, 0),
     "description": "SpatialRealityDisplayPlugin for Blender",
     "warning": "",

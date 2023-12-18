@@ -66,6 +66,8 @@ Reference Guild about Add-ons
 ## Differences from official release
 
 - Disable the edit mesh function of sync setting
+- bl_info's name: "Spatial Reality Display OSS"
+- bl_info's version: (0, 0, 0)
 
 ## About contributing
 
