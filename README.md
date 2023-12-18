@@ -23,27 +23,6 @@ Please see overview page
 - [OVERVIEW in English](https://www.sony.net/Products/Developer-Spatial-Reality-display/en/develop/Overview.html)
 - [OVERVIEW in Japanese](https://www.sony.net/Products/Developer-Spatial-Reality-display/jp/develop/Overview.html)
 
-## How to install
-
-### BlenderPlugin
-
-  1. Run "src/build.bat"
-  2. SpatialRealityDisplayPluginBle_X_X_X.zip is auto generated in the src folder.
-  3. Launch Blender Application
-  4. Click Edit > Preferences, 
-  5. Click on the Add-Ons tab, then click  "Install…" in the top right corner of the window. 
-  6. Navigate to the add on file (SpatialRealityDisplayPluginBle_X_X_X.zip), then click "Install Add-on" in the lower right.
-  7. To enable an add-on check the box to the right of the add-ons shown in the figure below.
-
-  ![SR-Display-Plugin-Preview-BL](images/editors_preferences_addons_enable.png)
-
-  If another version add-on is already installed, please disable the add-on uncheck the box once.
-
-Reference Guild about Add-ons
-
-- [Blender Add-on English page](https://docs.blender.org/manual/en/3.6/editors/preferences/addons.html)
-- [Blender Add-on Japanese page](https://docs.blender.org/manual/ja/3.6/editors/preferences/addons.html)
-
 ## Usage
 
 Please complete all of the following preparations.
@@ -62,6 +41,27 @@ To set-up Spatial Reality Display Plugin for Preview(BL)
 
 - [Setup Spatial Reality Display Plugin for Preview(BL) in English](https://www.sony.net/Products/appselect-spatial-reality-display/en/appDetail/dcctool/ec30e15984a01255/)
 - [Setup Spatial Reality Display Plugin for Preview(BL) in Japanese](https://www.sony.net/Products/appselect-spatial-reality-display/jp/appDetail/dcctool/ec30e15984a01255/)
+
+## How to install
+
+Please do install for Spatial Reality Display in usage chapter in advance.
+
+  1. Run "src/build.bat"
+  2. SpatialRealityDisplayPluginBle_X_X_X.zip is auto generated in the src folder.
+  3. Launch Blender Application
+  4. Click Edit > Preferences,
+  5. Click on the Add-Ons tab, then click  "Install…" in the top right corner of the window.
+  6. Navigate to the add on file (SpatialRealityDisplayPluginBle_X_X_X.zip), then click "Install Add-on" in the lower right.
+  7. To enable an add-on check the box to the right of the add-ons shown in the figure below.
+
+  ![SR-Display-Plugin-Preview-BL](images/editors_preferences_addons_enable.png)
+
+  If another version add-on is already installed, please disable the add-on uncheck the box once.
+
+Reference Guild about Add-ons
+
+- [Blender Add-on English page](https://docs.blender.org/manual/en/3.6/editors/preferences/addons.html)
+- [Blender Add-on Japanese page](https://docs.blender.org/manual/ja/3.6/editors/preferences/addons.html)
 
 ## Differences from official release
 
