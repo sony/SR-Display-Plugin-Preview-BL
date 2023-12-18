@@ -7,8 +7,7 @@ The app can be used to check data during the modeling process, check animations,
 - Some data may not be able to correctly reflect scene in 3D display.
 - Depending on the data, it may take a certain amount of time to transfer scenes.
 
-For more information, please see the documents.
-
+For more information, please see the documents.(Available after 2023/12/21)
 - [Manual in English](https://www.sony.net/Products/appselect-spatial-reality-display/en/appDetail/dcctool/ec30e15984a01255/)
 - [Manual in Japanese](https://www.sony.net/Products/appselect-spatial-reality-display/jp/appDetail/dcctool/ec30e15984a01255/)
 
@@ -38,6 +37,7 @@ To set-up Setting Up Spatial Reality Display Settings.
 - [SetupSRRuntime in Japanese](https://www.sony.net/Products/Developer-Spatial-Reality-display/jp/develop/Setup/SetupSRRuntime.html)
 
 To set-up Spatial Reality Display Plugin for Preview(BL)
+(Available after 2023/12/21)
 
 - [Setup Spatial Reality Display Plugin for Preview(BL) in English](https://www.sony.net/Products/appselect-spatial-reality-display/en/appDetail/dcctool/ec30e15984a01255/)
 - [Setup Spatial Reality Display Plugin for Preview(BL) in Japanese](https://www.sony.net/Products/appselect-spatial-reality-display/jp/appDetail/dcctool/ec30e15984a01255/)
