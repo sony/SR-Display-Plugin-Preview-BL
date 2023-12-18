@@ -72,4 +72,4 @@ Reference Guild about Add-ons
 ## About contributing
 
 We appreciate contributors in the community, that are willing to improve our project.
-For more information, please see the CONTRIBUTING.md.
+For more information, please see the [CONTRIBUTING.md](./CONTRIBUTING.md).
